@@ -18,7 +18,7 @@ function App() {
   const allowToggleHandler = () => {
     setAllowToggle(true);
   }
-
+  
   return (
     <div className="app">
       <h1>Hi there!</h1>
